@@ -1,4 +1,7 @@
 # Arthur Gabler Ghidetti - CC1MB 
 ## Pset 1
 
-### Nesse projeto primeiro fiz o estudo conceitual, estudando github e git e entendendo mais sobre VCSs, 
+### Nesse projeto, como foi proposto:  estudando github e git e entendendo mais sobre VCSs, estudei mar
+#### * fiz o estudo conceitual;
+#### * Estuei sobre github e git aprendendo mais sobre VCSs;
+#### *

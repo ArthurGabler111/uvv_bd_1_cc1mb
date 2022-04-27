@@ -3,7 +3,7 @@
 
 * #### Nesse projeto, como foi proposto: 
 * #### Fiz o estudo conceitual sobre GitHub e Git aprendendo mais sobre VCSs; 
-* #### Aprendi a linguagem MarkDown; 
+* #### Aprendi a linguagem [MarkDown](<https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>); 
 * #### Usando links do PDF do pset1 dado pelo professor e pesquisando na internet, respondi as 15 perguntas discursivas.
 
 ### Implementando o Postgres e MariaDB:

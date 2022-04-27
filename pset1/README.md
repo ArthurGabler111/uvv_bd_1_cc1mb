@@ -2,6 +2,6 @@
 ## Pset 1
 
 ### Nesse projeto, como foi proposto:  estudando github e git e entendendo mais sobre VCSs, estudei mar
-#### * fiz o estudo conceitual;
+* ####  fiz o estudo conceitual;
 #### * Estuei sobre github e git aprendendo mais sobre VCSs;
 #### *

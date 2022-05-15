@@ -2,7 +2,7 @@
 create user arthurg identified by '123';
 
 /*Dando todos privilégios ao usuário no banco de dados uvv */
-grant all privileges on uvv.* to yan;
+grant all privileges on uvv.* to arthurg;
 
 /*Criando o banco de dados uvv */
 create database uvv;
